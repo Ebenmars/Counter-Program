@@ -5,8 +5,6 @@ function decrease(){
     num.innerHTML = number;
  }
 
-
-
 function reset(){
     let num = document.getElementById("num");
     num.innerHTML = 0;
